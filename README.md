@@ -24,8 +24,8 @@
 
 
 
+![css-specificity-10](https://github.com/user-attachments/assets/483fda33-6f83-4424-af97-cf698b3d1afc)
 
-https://drive.google.com/file/d/1TPEOUqWsH7iJ0xu9JdDGDgZlwgy51vaf/view?usp=sharing
 
 
 
